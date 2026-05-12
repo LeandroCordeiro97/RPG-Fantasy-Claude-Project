@@ -8,4 +8,4 @@ Every line of HTML, CSS, and JavaScript, as well as the world-building content, 
 ## 🛠️ Tools Used
 * **AI Model:** Claude (Anthropic)
 * **Role:** AI Orchestrator / Prompt Engineer (Me)
-* **Tech Stack:** HTML5, CSS3, JavaScript
+* **Tech Stack:** HTML5, CSS3
